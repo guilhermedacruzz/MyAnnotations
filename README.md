@@ -4,4 +4,10 @@ Tenho um pouco de medo de como isso ocorrerá, pois, de uma certa forma, depende
 
 A princípio, as atualizações deveram ser diárias tanto por vídeo quanto por texto. 
 
+Depois de uma breve pesquisa, encontrei o método de organização que mais me agradou, não por conta da metodologia por si, mas, sim, pela facilidade de memorização. O método em questão chama-se **Johnny.Decimal**, apesar desse nome ridículo, apresenta uma ideia bem estruturada na organização dos arquivos e criação dos gráficos. Para mim, não faz sentido descrevê-lo aqui, por isso coloquei o link da explicação do seu criador. 
+
+* [Home | Johnny•Decimal (johnnydecimal.com)](https://johnnydecimal.com/)
+
+
+
 

@@ -1,5 +1,0 @@
-[[16.01 Origem da Vida]]
-[[16.02 Teorias Evolutivas]]
-[[16.03 Evidências do Processo Evolutivo]]
-[[16.04 Teoria Moderna da Evolução]]
-[[16.05 Evolução Humana]]

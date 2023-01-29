@@ -1,0 +1,1 @@
+É um estrutura multifuncional fundamental para os peixes, répteis e aves. Apresenta 3 principais funções: **digestório**(eliminação de fezes), **excretor**(eliminação de urina) e **reprodutor**(liberação de gametas).

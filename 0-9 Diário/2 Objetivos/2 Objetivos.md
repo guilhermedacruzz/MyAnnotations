@@ -1,1 +1,0 @@
-Nessa seção, serão descritos as metas atuais do escritor, podendo ser diário até anuais.

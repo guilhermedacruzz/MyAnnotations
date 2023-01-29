@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "9d65d49c0242eb05",
+    "type": "split",
+    "children": [
+      {
+        "id": "72fefe6fc465f69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d7e2ee50585f9c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba7f91be610684e5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "892fd691f7b302ae",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f7002a8419aaf42a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "eade990c75a48318",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "22203edc3485f402",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cc518c8f51fb97b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b4945a747fce5c88",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bed52eb438757b0d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4bfac1dcb01ab87d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "27d7e2ee50585f9c",
+  "lastOpenFiles": [
+    "10-29 Biologia/14 Zoologia/Chordata/14.10 Filo Chordata.md",
+    "10-29 Biologia/14 Zoologia/Chordata/Comparativos entre o número de cavidades do coração e a evidência metabólica nos subfilos Chordata.md",
+    "10-29 Biologia/14 Zoologia/14 Zoologia.md",
+    "README.md",
+    "GISHSJS.md",
+    "10-29 Biologia/12 Citologia/Citoesqueleto/12.02 Citoesqueleto.md",
+    "11.01 Anabolismo.md",
+    "Teste Sync.md",
+    "10-29 Biologia/12 Citologia/Citoesqueleto/Microfilamentos de Actina.md",
+    "10-29 Biologia/10-29 Biologia.md"
+  ]
+}

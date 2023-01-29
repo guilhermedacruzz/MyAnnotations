@@ -1,0 +1,1 @@
+Os Hemicordados, antigamente, eram considerados um subfilo do [[Filo Chordata|Cordados,]] porém pesquisas mais recentes comprovam que a **estomocorda** - presente nesses animais - não é um estrutura homóloga à **notocorda.** Por conta disso, foram classificados em filo separado. A nível de ensino médio, **não são estudados.**  

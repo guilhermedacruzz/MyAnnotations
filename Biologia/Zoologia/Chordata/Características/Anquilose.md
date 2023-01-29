@@ -1,0 +1,3 @@
+Uma anquilose pode ser definida como sendo a **fusão das superfícies articulares seja por tecido ósseo ou fibroso.** Nas aves, por exemplo, ocorre a fusão das duas clavículas. Isso ocorreu, pois, durante o processo evolutivo das aves, indivíduos com melhores estruturas para voo foram selecionados, essa fusão óssea permite a construção de um osso mais forte, firme e leve.
+
+![[Pasted image 20230124105212.png]]
